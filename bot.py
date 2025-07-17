@@ -98,4 +98,4 @@ if __name__ == '__main__':
     asyncio.run(set_webhook())
 
     print("Avvio Flask...")
-    app_flask.run(host="0.0.0.0", port=5000)
+    app_flask.run()
