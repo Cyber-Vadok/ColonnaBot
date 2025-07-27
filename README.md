@@ -1,2 +1,2 @@
 # ColonnaBot
-bot telegram per Colonna
+```git clone https://github.com/Cyber-Vadok/ColonnaBot.git```
